@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+My name is Thang, and I hold a Ph.D. in Computer Science from CIC, IPN. I am passionate about working on Sentiment Analysis, Natural Language Generation, Neural Networks, Kolmogorov-Arnold Networks, and Image Processing.
+
+Currently, **I am seeking a postdoctoral researcher position to enhance my research skills further**.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangthangta)](https://github.com/hoangthangta/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthangta)](https://github.com/hoangthangta/github-readme-stats)
 
