@@ -7,7 +7,6 @@ My name is Thang, and I hold a Ph.D. in Computer Science from CIC, IPN. I am pas
 > "Kiến thức và góc nhìn về thế giới chỉ thực sự mở rộng khi bạn trải qua nhiều hoàn cảnh khác biệt."
 — Hoang-Thang Ta
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangthangta)](https://github.com/hoangthangta/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthangta)](https://github.com/hoangthangta/github-readme-stats)
 
 <!--
