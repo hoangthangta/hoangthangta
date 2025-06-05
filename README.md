@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Thang, and I hold a Ph.D. in Computer Science from CIC, IPN. I am passionate about working on Sentiment Analysis, Natural Language Generation, Neural Networks, Kolmogorov-Arnold Networks, and Image Processing.
+My name is Thang, and I hold a Ph.D. in Computer Science from CIC, IPN. I am passionate about working on Sentiment Analysis, Natural Language Generation, and Neural Networks (Kolmogorov-Arnold Networks). I also pay attention to dark energy and quantum physics.
 
 ## My stuff
 > "Knowledge and perspectives about the world truly expand when you experience diverse circumstances."
