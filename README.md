@@ -2,7 +2,7 @@
 
 My name is Thang, and I hold a Ph.D. in Computer Science from CIC, IPN. I am passionate about research in Sentiment Analysis, Natural Language Generation, Neural Networks (Kolmogorov–Arnold Networks), and SciML. I am also interested in topics related to dark energy and quantum physics.
 
-I am currently a lecturer at FPT University, Ho Chi Minh City, Vietnam.
+I am currently a lecturer-reseacher at FPT University, Ho Chi Minh City, Vietnam.
 
 ## My stuff
 > "Knowledge and perspectives about the world truly expand when you experience diverse circumstances."
