@@ -7,7 +7,9 @@ My name is Thang, and I hold a Ph.D. in Computer Science from CIC, IPN. I am pas
 > "Knowledge and perspectives about the world truly expand when you experience diverse circumstances."
 > "Kiến thức và góc nhìn về thế giới chỉ thực sự mở rộng khi bạn trải qua nhiều hoàn cảnh khác biệt."
 — Hoang-Thang Ta
-> 
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hoangthangta)](https://github.com/hoangthangta)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hoangthangta)](https://github.com/hoangthangta)
 
 <!--
 **hoangthangta/hoangthangta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
